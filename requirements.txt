@@ -1,2 +1,3 @@
 pdfplumber
 langchain
+langchain-google-genai
