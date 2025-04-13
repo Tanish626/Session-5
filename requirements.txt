@@ -1,3 +1,9 @@
-pdfplumber
+streamlit
 langchain
 langchain-google-genai
+langchain-community
+chromadb
+pdfplumber
+sentence-transformers
+pyngrok
+google-generativeai
